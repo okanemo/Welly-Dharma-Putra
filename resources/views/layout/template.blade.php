@@ -25,7 +25,7 @@
     <h6 class="text">
     <a  class="alink" href="{{'/projects'}}">PROJECTS</a> </h6></h6>
     <h6 class="text">
-    <a  class="alink" href="">BLOG</a> </h6></h6>
+    <a  class="alink" href="{{'/blog'}}">BLOG</a> </h6></h6>
     <h6 class="text">
     <a  class="alink" href="{{'/resume'}}">RSESUME</a> </h6></h6>
     <h6 class="text">

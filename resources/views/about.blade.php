@@ -29,7 +29,7 @@
 
 <div class="row">
 
-<div class="col-md-4" style="padding-left: 220px;">
+<div class="col-md-4" style="padding-left: 220px; margin-bottom:50px;">
 <div class="card" >
     <img class="card-img-top" src="{{url('/image/frontend-icon.svg')}}" alt="Card image cap">
     <div class="card-body">
@@ -46,7 +46,7 @@
 </div>
 </div>
 
-<div class="col-md-4" style="padding-left: 130px;">
+<div class="col-md-4" style="padding-left: 130px; margin-bottom:50px;">
 <div class="card" >
     <img class="card-img-top" src="{{url('/image/backend-icon.svg')}}" alt="Card image cap">
     <div class="card-body">
@@ -63,7 +63,7 @@
 </div>
 </div>
 
-<div class="col-md-4" style="padding-left: 40px;">
+<div class="col-md-4" style="padding-left: 40px; margin-bottom:50px;">
 <div class="card" >
     <img class="card-img-top" src="{{url('/image/other-skills-icon.svg')}}" alt="Card image cap">
     <div class="card-body">

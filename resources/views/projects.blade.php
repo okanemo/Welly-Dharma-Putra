@@ -39,8 +39,8 @@
     <a class="alink2" href="{{'/projects/6'}}">MongoDB</a>
     </button>
     </center>
-
-    <div class="row" style="margin-top: 40px">
+    <center>
+    <div class="row" style="margin-top: 40px; max-width: 1500px;">
     @foreach($projects as $project)
         <div class="col-md-4">
             <div class="card">
@@ -75,6 +75,7 @@
         </div>
     @endforeach
     </div>
+    </center>
 @endsection
 
 
@@ -83,7 +84,9 @@
         display: flex;
         background-color: #41A4F5;
     }
-
+    .col-md-4{
+        margin-bottom:30px;
+    }
     .textproject1{
         color:white;
         margin-top:30px;

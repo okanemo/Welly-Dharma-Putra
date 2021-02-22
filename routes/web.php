@@ -35,3 +35,5 @@ Route::get('/download', function(){
 });
 
 Route::get('/contact','App\Http\Controllers\ContactController@ContactPage');
+
+Route::get('/blog','App\Http\Controllers\BlogController@BlogPage');
