@@ -15,9 +15,11 @@
 
 @endsection
 @section('nextcontent')
+<center>
 <div>
 <img class="Imageholders" src="{{url('/image/CV.png')}}" alt="">
 </div>
+</center>
 
 
 @endsection
@@ -27,7 +29,6 @@
         background-color: #41A4F5;
     }
 .Imageholders{
-    margin-left: 500px;
     height: 1200px;
     margin-top: 40px;
     padding-bottom: 40px;

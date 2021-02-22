@@ -23,6 +23,7 @@ Route::get('/projects/detail/{id}','App\Http\Controllers\ProjectsController@GetP
 
 Route::get('/resume','App\Http\Controllers\ResumeController@ResumePage');
 
+
 Route::get('/download', function(){
     $file = public_path()."\PDF\Wely Dharma Putra CV.pdf";
 
@@ -32,3 +33,5 @@ Route::get('/download', function(){
 
     return Response::download($file,"Wely Dharma Putra CV.pdf", $headers);
 });
+
+Route::get('/contact','App\Http\Controllers\ContactController@ContactPage');

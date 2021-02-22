@@ -24,7 +24,7 @@
     <h4>Skill Overview</h4>
     <h6>I have more than 8 years' experience building rich web applications for clients all over the world. Below is a
         quick overview of my main technical skill sets and tools I use. Want to find out more about my experience?</h6>
-    <a class="checkresume" href="">Check out my online resume.</a>
+    <a class="checkresume" href="{{'/resume'}}">Check out my online resume.</a>
 </div>
 
 <div class="row">

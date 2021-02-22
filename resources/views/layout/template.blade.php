@@ -29,7 +29,7 @@
     <h6 class="text">
     <a  class="alink" href="{{'/resume'}}">RSESUME</a> </h6></h6>
     <h6 class="text">
-    <a  class="alink" href="">CONTACT</a> </h6></h6>
+    <a  class="alink" href="{{'/contact'}}">CONTACT</a> </h6></h6>
     </div>
     
     </div>
